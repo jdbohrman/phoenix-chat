@@ -1,28 +1,26 @@
-# Project Title
-A simple Real-time chat app built with Elixir.
+# Phoenix-chat
+> Simple real time chat app written with Elixir and the Phoenix framework.
 
-## Getting Started
+![](header.png)
 
-`cd` into the root directory that contains the dockerfile and run `docker build`. The run the dockerfile and open a browser to localhost.
+## Development setup
 
-### Prerequisites
+```
+docker build .
+```
 
--Elixir
--Phoenix
--Docker
+## Meta
 
-### Installing
+James Bohrman – [@jdbohrman](https://twitter.com/jdbohrman) – jdbohrman@outlook.com
 
-Run `Docker build .` in the directory containing the dockerfile.
+Distributed under The Unlicense. See ``LICENSE`` for more information.
 
-## Built With
+[https://github.com/jdbohrman/phoenix-chat](https://github.com/jdbohrman/)
 
-* [Elixir](https://elixir-lang.org/) - The language used
+## Contributing
 
-## Authors
-
-* **James Bohrman** - (https://github.com/jdbohrman)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+1. Fork it (<https://github.com/jdbohrman/phoenix-chat/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
